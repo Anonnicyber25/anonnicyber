@@ -1,0 +1,9 @@
+
+apt update && apt upgrade
+git apt install git 
+apt installe phyton
+git clone https://github.com//ipinfo.git
+cd ipinfo
+chmod +×*
+sh install.sh
+phyton3 ipinfo.py
